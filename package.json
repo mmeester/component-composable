@@ -1,0 +1,21 @@
+{
+  "name": "@mmeester/component-composable",
+  "version": "1.0.0",
+  "description": "Example of what I would like to accomplish between component and composables",
+  "main": "main.js",
+  "scripts": {
+    "<---- Linters ---->": "",
+    "lint": "npm run lint:js",
+    "lint:js": "eslint --ext '.js,.vue' --ignore-path .gitignore .",
+    "lint:js:fix": "eslint --ext '.js,.vue' --fix --ignore-path .gitignore ."
+  },
+  "author": {
+    "name": "Maurits Meester",
+    "url": "https://www.e-mmer.nl/"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.3.0",
+    "eslint-plugin-vue": "^8.1.1"
+  }
+}
