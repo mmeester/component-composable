@@ -1,6 +1,6 @@
 {
   "name": "component-composable",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Example of what I would like to accomplish between component and composables",
   "main": "main.js",
   "scripts": {

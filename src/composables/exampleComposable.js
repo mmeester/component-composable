@@ -1,6 +1,6 @@
-import { reactive } from 'vue';
+import { ref } from 'vue';
 
-const uiState = reactive({status: 'idle'});
+const uiState = ref('idle');
 
 /**
  * Auth composable wrapper for basic functionality
