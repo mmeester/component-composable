@@ -13,9 +13,17 @@
     "name": "Maurits Meester",
     "url": "https://www.e-mmer.nl/"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmeester/component-composable.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.3.0",
     "eslint-plugin-vue": "^8.1.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/mmeester/component-composable/issues"
+  },
+  "homepage": "https://github.com/mmeester/component-composable#readme"
 }
