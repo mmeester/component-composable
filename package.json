@@ -1,6 +1,6 @@
 {
   "name": "component-composable",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Example of what I would like to accomplish between component and composables",
   "main": "main.js",
   "scripts": {
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/mmeester/component-composable/issues"
   },
-  "homepage": "https://github.com/mmeester/component-composable#readme"
+  "homepage": "https://github.com/mmeester/component-composable#readme",
+  "dependencies": {
+    "vue": "^3.2.23"
+  }
 }
